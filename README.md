@@ -43,9 +43,9 @@ Cette fonctionnalité pourrait retourner un score ou un niveau (par exemple : "f
 ## Points
 Les participants recevront des points en fonction de leur performance :
 ## Récompense
-- Vainqueur : 10 pts
-- 2ème : 5 pts
-- 3ème : 2 pts
+- Vainqueur : 5 pts
+- 2ème : 3 pts
+- 3ème : 1 pts
 ## Livraison
 Code source à déposer dans un dépôt GitHub public.
 Copiez le lien GitHub sur le canal #reponse-challenges de notre serveur Discord.
